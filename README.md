@@ -8,7 +8,7 @@ You'll need to use the [Day.js](https://day.js.org/en/) library to work with dat
 
 ## Links:
 ### Website
-https://jb1756.github.io/WorkDayScheduler_JB/
+
 
 ## User Story
 
